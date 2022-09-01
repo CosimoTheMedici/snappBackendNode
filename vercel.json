@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/movies/(.*)", "destination": "/movies" }]
+}
